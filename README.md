@@ -1,6 +1,8 @@
 ### Olá,Tudo certo✌️ ?
 ####  Meu nome é Gabriel Suptitz estou no caminho para me tornar um programador e tentando alcançar sempre um próximo nível 🚀 
 
-#### Estou aprendendo: HTML5 | CSS | JavaScript | React | Node
+#### Estou aprendendo e melhorando minhas habilidades em : 
 
-#### Tenho Interesse em: TypeScript | SQL 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev) 
+
+#### Tenho interesse: TypeScript | SQL
